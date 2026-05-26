@@ -47,7 +47,7 @@ java -jar GestorTareas.jar
 
 * **d) ¿Qué aprendiste de este proyecto que no aprendiste solo leyendo o viendo videos?**
     La importancia de la robustez del código cuando ejecutas el codigo. Ver vídeos hace me hace creer que me saldran las a la primera, pero cuando trabajo directamente con la consola casi simpre habra errores y corregir los luego llega a ser complicado aun mas como en mi caso que no habia estado familiarizado en este entorno.
-## Módulo de trivia
+## Módulo de trivia chulin ayuda
 
 El proyecto incluye un módulo de trivia sobre conceptos básicos de Kotlin.
 
